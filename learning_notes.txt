@@ -1,0 +1,24 @@
+What are we planning to do?
+
+ - Work with Python as beginners to learn a front end
+ - MongoDB to connect to a live db to fetch information with CRUD operations (Create, Reading, Updating, and Deleting)
+ - Testing basic functionality with PostMan (send raw data to see how localhost is interacting)
+
+ Road Map to learning?
+1. How do you use python to program front end / back end html structure?
+    -> If we were to use Vue.JS this is a front end technology:
+        - Frontend JavaScript framework
+        - Used for building user interfaces and single-page applications
+        - Focuses on the view layer of an application
+        - Handles rendering and updating of UI components
+        - Can be incrementally adopted in existing projects
+    
+    -> Meanwhile Django is a backend frame work used for:
+        - Backend Python web framework
+        - Used for server-side logic and database operations
+        - Provides a full-stack solution, including an ORM, authentication, and admin interface
+        - Follows the model-template-view (MTV) architectural pattern
+        - Well-suited for developing complex, database-driven web applications
+
+
+
