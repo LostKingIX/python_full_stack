@@ -35,4 +35,14 @@ Started (??)
 
 Update Aug 30
 
+- What is the env folder doing? (activating a virtual env)
+
+    The command python3 -m venv env creates a new directory named env in the current working directory. 
+    This directory contains a copy of the Python interpreter and a bin directory with the activate script.
+    
+    The command source env/bin/activate should be run separately after the environment is created. 
+    This command activates the virtual environment, meaning your shell session will now use the Python 
+    interpreter and packages installed in the env directory.
+
+
 
