@@ -20,5 +20,19 @@ What are we planning to do?
         - Follows the model-template-view (MTV) architectural pattern
         - Well-suited for developing complex, database-driven web applications
 
+How They Interact
+
+Frontend (React/Vue.js) and Backend (Django):
+React or Vue.js handles the client-side (frontend) part of the application. This is what the user interacts with in the browser.
+Django serves as the backend, where it handles requests, processes data, and returns responses (like JSON data or rendered 
+templates). The frontend typically makes HTTP requests to Django's REST API (which might be built using Django Rest Framework) 
+to fetch or send data.
+
+
+Build notes
+
+Started (??)
+
+Update Aug 30
 
 
